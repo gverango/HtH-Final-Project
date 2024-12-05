@@ -1,21 +1,28 @@
 # HtH-Final-Project
 Using Kaggle Datasets to interpret San Francisco Housing Trends
 
+# Data
 
-https://www.kaggle.com/datasets/thedevastator/scraping-apartments-off-of-craigslist-in-san-fra
-
-Housing for Rent scraped from Craigslist.
-
-
-https://www.kaggle.com/datasets/san-francisco/sf-affordable-housing-pipeline
-
-SF based iniatives to increase affordable housing.
+- Housing for Rent scraped from Craigslist: https://www.kaggle.com/datasets/thedevastator/scraping-apartments-off-of-craigslist-in-san-fra
+- SF based iniatives to increase affordable housing: https://www.kaggle.com/datasets/san-francisco/sf-affordable-housing-pipeline
+- A map visualization of San Francisco: https://koordinates.com/layer/101761-city-of-san-francisco-california-streets/
 
 
-A map visualization of San Francisco.
+# File Directory
+.
+├── README.md
+├── data
+│   ├── affordable-housing-pipeline.csv
+│   ├── affordable_housing.zip
+│   ├── rents_craigslist.zip
+│   └── rents_craigslist_clean.csv
+├── kx-city-of-san-francisco-california-streets-SHP.zip
+└── src
+    └── main.py
 
-https://koordinates.com/layer/101761-city-of-san-francisco-california-streets/
+2 directories, 7 files
 
-
-# Wanted to find how home owners are effected by SF affordable housing iniatives, possibly using the map data for a visualization for affordable housing + craigslist postings.
-
+#Credits 
+HtH Fall 2024 Build Program
+Orange Tiger Team, Sydney Lee
+Gevilee Mariane Verango
