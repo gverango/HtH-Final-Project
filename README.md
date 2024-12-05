@@ -24,7 +24,9 @@ Using Kaggle Datasets to interpret San Francisco Housing Trends
 2 directories, 7 files
 ```
 
-#Credits 
+# Credits 
 HtH Fall 2024 Build Program
+
 Orange Tiger Team, Sydney Lee
+
 Gevilee Mariane Verango
