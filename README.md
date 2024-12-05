@@ -9,6 +9,7 @@ Using Kaggle Datasets to interpret San Francisco Housing Trends
 
 
 # File Directory
+```
 .
 ├── README.md
 ├── data
@@ -21,6 +22,7 @@ Using Kaggle Datasets to interpret San Francisco Housing Trends
     └── main.py
 
 2 directories, 7 files
+```
 
 #Credits 
 HtH Fall 2024 Build Program
