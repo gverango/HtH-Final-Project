@@ -9,6 +9,18 @@ https://docs.google.com/presentation/d/1qhZZeUC_hA3urT_EptUnk8nts9B-OFrI9a8JaLCc
 - SF based iniatives to increase affordable housing: https://www.kaggle.com/datasets/san-francisco/sf-affordable-housing-pipeline
 - Housing for Rent scraped from Craigslist: https://www.kaggle.com/datasets/thedevastator/scraping-apartments-off-of-craigslist-in-san-fra
 
+# Get Started
+
+Fork my repository: `data` and `src` are necessary folders.
+Dependencies: pandas, matplotlib
+
+Navigate to SRC file
+```cd src```
+
+In Terminal
+```python3 main.py```
+
+
 # File Directory
 ```
 .
