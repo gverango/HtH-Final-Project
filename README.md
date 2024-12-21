@@ -1,12 +1,13 @@
 # HtH-Final-Project
-Using Kaggle Datasets to interpret San Francisco Housing Trends
+Using Kaggle Datasets to interpret trends in SF Affordable Housing development
+
+# SLIDE DECK
+https://docs.google.com/presentation/d/1qhZZeUC_hA3urT_EptUnk8nts9B-OFrI9a8JaLCcLp4/edit?usp=sharing
 
 # Data
 
-- Housing for Rent scraped from Craigslist: https://www.kaggle.com/datasets/thedevastator/scraping-apartments-off-of-craigslist-in-san-fra
 - SF based iniatives to increase affordable housing: https://www.kaggle.com/datasets/san-francisco/sf-affordable-housing-pipeline
-- A map visualization of San Francisco: https://koordinates.com/layer/101761-city-of-san-francisco-california-streets/
-
+- Housing for Rent scraped from Craigslist: https://www.kaggle.com/datasets/thedevastator/scraping-apartments-off-of-craigslist-in-san-fra
 
 # File Directory
 ```
@@ -17,11 +18,13 @@ Using Kaggle Datasets to interpret San Francisco Housing Trends
 │   ├── affordable_housing.zip
 │   ├── rents_craigslist.zip
 │   └── rents_craigslist_clean.csv
-├── kx-city-of-san-francisco-california-streets-SHP.zip
 └── src
-    └── main.py
+    ├── affordable_units_by_neighborhood.png
+    ├── affordable_units_stacked_bar_chart.png
+    ├── main.py
+    └── trend_affordable_units_line_chart.png
 
-2 directories, 7 files
+2 directories, 9 files
 ```
 
 # Credits 
